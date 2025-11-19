@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-主包你好，我是理塘王旗下第九百九十九号骑兵🐴，姓刘，名世超。幼时便知识学爆🤓☝，高考后便误闯天家。
+主包你好，我是理塘王旗下第九百九十九号骑兵🐴，姓刘，名世超。幼时便知识学爆🤓☝，高考后竟误闯天家，Lost in JiangXi.......
 
 现情况为江西理工大学[Jiangxi University of Science and Technology](https://www.jxust.edu.cn/)信息工程学院学子，攻读信息安全专业。试图将爱好变现ing...
 
